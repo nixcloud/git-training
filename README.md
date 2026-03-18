@@ -5,13 +5,8 @@ This is a simple git repository used for training purposes
 
 Please add your chicken into this list:
 
-🐔
-🐔
-🐔
-🐔
-🐔
-🐔
-🐔
+🦊 U+1F98A Fox Face Unicode Character
+
 🐔
 🐔
 🐔
