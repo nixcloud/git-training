@@ -1,5 +1,5 @@
 # Global variable controlling computation range
-COMPUTE_LIMIT = 189
+COMPUTE_LIMIT = 1888
 
 def main():
     # Validate global variable
