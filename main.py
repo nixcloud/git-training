@@ -1,3 +1,5 @@
+# The code looks great
+
 # Global variable controlling computation range
 COMPUTE_LIMIT = 188O8
 
