@@ -1,1 +1,1 @@
-my_variable = "Hello from UserA commit 3.2!"
+my_variable = "Hello from UserA commit 4.1!"
