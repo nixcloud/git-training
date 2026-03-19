@@ -6,3 +6,7 @@ Please add your chicken into this list:
 🐔
 
 Just don't chicken out!
+
+# legal
+
+this is barely legal
