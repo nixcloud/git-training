@@ -1,9 +1,13 @@
-# ... other imports ...
+import os
+import requests
 
 def access_critical_service():
-    # Security critical token (DO NOT share this in real code)
-    sensitive_token = "12345abcdeFAKEtoken67890"
+    # Retrieve the security critical token from an environment variable
+    sensitive_token = os.getenv("CRITICAL_SERVICE_TOKEN")
     
+    if not sensitive_token:
+        raise ValueError("CRITICAL_SERVICE_TOKEN environment variable is not set.")
+
     # Simulated API endpoint
     api_endpoint = "https://api.criticalservice.com/data"
     
